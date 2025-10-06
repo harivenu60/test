@@ -1,0 +1,5 @@
+Title,Source,Date,Severity,Sentiment Score,Model Label,URL
+"Sanctions match: Public Joint Stock Company Lukoil","SanctionsLists",,High,0.91,SANCTIONS_MATCH,
+"Lukoil fined for sanctions violations","NewsAPI","2024-09-13",High,0.97,NEGATIVE,https://example.com/lukoil-fine
+"Lukoil subsidiary under investigation for bribery","NewsData","2023-11-02",Medium,0.82,NEGATIVE,https://example.com/lukoil-bribery
+"Lukoil environmental breach leads to oil spill probe","GNews","2022-07-19",Medium,0.78,NEGATIVE,https://example.com/lukoil-oilspill
